@@ -61,4 +61,4 @@ Dark-only UI. Colors: emerald-500 accent on near-black (#050505) backgrounds. Us
 
 ## Environment
 
-Requires `GEMINI_API_KEY` in `.env.local` for AI Studio integration (see `.env.example`). Firebase config is hardcoded as default in `firebase.ts` but can be overridden at runtime via the Firebase Config modal (persisted in localStorage under `librislink_firebase_config`).
+Requires `GEMINI_API_KEY` and the `VITE_FIREBASE_*` values in `.env.local` for configured services (see `.env.example`). Firebase config can also be overridden at runtime via the Firebase Config modal (persisted in localStorage under `librislink_firebase_config`).

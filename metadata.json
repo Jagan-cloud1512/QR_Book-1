@@ -1,0 +1,6 @@
+{
+  "name": "LibrisLink QR Inventory System",
+  "description": "QR-Based Book Reservation & Inventory System with Excel Import, Shelf Matrix Configuration, and Real-Time Firestore Sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
